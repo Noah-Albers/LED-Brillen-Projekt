@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MSS-2336-DTE")(type "KiCad")(uri "${KIPRJMOD}/MSS-2336-DTE.kicad_sym")(options "")(descr ""))
+)
