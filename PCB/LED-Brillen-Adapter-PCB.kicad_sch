@@ -3640,7 +3640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 40.132 26.67 90)
 			(effects
 				(font
@@ -3718,7 +3718,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 40.132 36.83 90)
 			(effects
 				(font
@@ -3909,7 +3909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0267f12-8aec-4f08-a527-3e2073114cf0")
-		(property "Reference" "SW"
+		(property "Reference" "SW3"
 			(at 62.23 73.914 90)
 			(effects
 				(font
@@ -3989,7 +3989,7 @@
 		(instances
 			(project "LED-Brillen-Adapter-PCB"
 				(path "/5f322e17-ab81-4770-a746-a25aadfbe2be"
-					(reference "SW")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
